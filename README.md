@@ -1,2 +1,3 @@
 # html101
-## Simple intro to HTML
+## Simple intro to HTMLtouch
+## Also includes basic CSS
